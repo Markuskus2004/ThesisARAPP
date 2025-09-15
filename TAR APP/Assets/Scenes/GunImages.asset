@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: GunImages
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4637297359395156510
+  m_GuidHigh: 8468440031222801558
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4729496650835367523
+      m_GuidHigh: 1745801285794228616
+    m_SerializedTextureGuid:
+      m_GuidLow: 5639667927919605383
+      m_GuidHigh: 12732258475204882186
+    m_Size: {x: 0.202, y: 0.202}
+    m_SpecifySize: 1
+    m_Name: GLOCK-18
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5484879353654187599
+      m_GuidHigh: 10302969168362014853
+    m_SerializedTextureGuid:
+      m_GuidLow: 11642975946516597919
+      m_GuidHigh: 3230545971070537562
+    m_Size: {x: 0.65, y: 0.65}
+    m_SpecifySize: 1
+    m_Name: SCORPION-CZ
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4935659922292431419
+      m_GuidHigh: 815249750646660518
+    m_SerializedTextureGuid:
+      m_GuidLow: 4815544539561445925
+      m_GuidHigh: 10070276028847637945
+    m_Size: {x: 0.9, y: 0.62325}
+    m_SpecifySize: 1
+    m_Name: SCAR-H
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4877313432999421392
+      m_GuidHigh: 15015564040055134125
+    m_SerializedTextureGuid:
+      m_GuidLow: 8972531105991730994
+      m_GuidHigh: 4841700285927196891
+    m_Size: {x: 0.9, y: 0.63490504}
+    m_SpecifySize: 1
+    m_Name: HK416
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5056586477233136616
+      m_GuidHigh: 5991735358626482856
+    m_SerializedTextureGuid:
+      m_GuidLow: 9940833481251065705
+      m_GuidHigh: 8451282681370146906
+    m_Size: {x: 0.202, y: 0.1515}
+    m_SpecifySize: 1
+    m_Name: GLOCK-17
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4667658900762700270
+      m_GuidHigh: 1789234142267652799
+    m_SerializedTextureGuid:
+      m_GuidLow: 7954488103076879818
+      m_GuidHigh: 4501204282729540377
+    m_Size: {x: 1.04, y: 0.69368}
+    m_SpecifySize: 1
+    m_Name: M249 1
+    m_Texture: {fileID: 0}
